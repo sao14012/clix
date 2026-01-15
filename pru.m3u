@@ -1,0 +1,59 @@
+#EXTM3U
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Info Mora
+https://chromecast.cvattv.com.ar/live/c4eds/Info_Mora/SA_Live_dash_enc/Info_Mora.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Info Flow
+https://chromecast.cvattv.com.ar/live/c7eds/Info_Flow/SA_Live_dash_enc/Info_Flow.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Metro
+#KODIPROP:inputstream.adaptive.license_key=719aa3a5e270c7f69eba374ed80d7986:97ac59118cf4cf242e2c31e87cd38e1e
+https://chromecast.cvattv.com.ar/live/c6eds/Metro/SA_Live_dash_enc/Metro.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",America TV
+#KODIPROP:inputstream.adaptive.license_key=8ea235ce0826408b221c498115a9b62d:7aa9266ed91ea4510483370029dfcf45
+https://chromecast.cvattv.com.ar/live/c3eds/AmericaTV/SA_Live_dash_enc/AmericaTV.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Telefe HD
+#KODIPROP:inputstream.adaptive.license_key=3cec1b1ea9799dda5596e64f37e5ed20:c69f3afde2085dcaaaddbf55246a0323
+https://chromecast.cvattv.com.ar/live/c6eds/TelefeHD/SA_Live_dash_enc/TelefeHD.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Canal 7
+#KODIPROP:inputstream.adaptive.license_key=cc8c82ac2ec7e9799527c29db7354e81:cc4aae173dd2ef17ae26be3f7ae87662
+https://chromecast.cvattv.com.ar/live/c6eds/Canal7/SA_Live_dash_enc/Canal7.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Artear HD
+#KODIPROP:inputstream.adaptive.license_key=5179017f49326d14af0a9ceec831aee6:09b4a463b029ebc28a288bed2da70a76
+https://cdn.cvattv.com.ar/live/c3eds/ArtearHD/SA_Live_dash_cenc/ArtearHD.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Canal 9
+#KODIPROP:inputstream.adaptive.license_key=24f4ff211136ae6512a1b552200db405:602122f8426c5c942b8c18d299cc6020
+https://chromecast.cvattv.com.ar/live/c3eds/Canal9/SA_Live_dash_enc/Canal9.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",Todo Noticias
+#KODIPROP:inputstream.adaptive.license_key=7ceb1cd0622cd7e88fcdc99fe3a55de6:951637093d41c7388a1ef3f620cfea21
+https://chromecast.cvattv.com.ar/live/c7eds/TodoNoticias/SA_Live_dash_enc/TodoNoticias.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",La Nacion +
+#KODIPROP:inputstream.adaptive.license_key=f4eade7bbc39b25402acfa301bbad04a:a74d1df4235a74878327aa8d53ff283c
+https://chromecast.cvattv.com.ar/live/c7eds/La_Nacion/SA_Live_dash_enc/La_Nacion.mpd
+#EXTINF:-1 group-title="NACIONALES Y NOTICIAS",C5N
+#KODIPROP:inputstream.adaptive.license_key=050df5c6e78c774e78c3e99eef8a1b29:0e4141d6ab21a36cbc4da777ab3096d4
+http://chromecast.cvattv.com.ar/live/c7eds/C5N/SA_Live_dash_enc/C5N.mpd
+
+#EXTINF:-1 group-title="DEPORTES",TyC Sports
+#KODIPROP:inputstream.adaptive.license_key=2b21c8fa9a329cce311a4c4a4aa996a1:cc23ea1fb32629f9e1f48c8deeae3e5b
+https://chromecast.cvattv.com.ar/live/c7eds/TyCSport/SA_Live_dash_enc/TyCSport.mpd
+#EXTINF:-1 group-title="DEPORTES",ESPN HD
+#KODIPROP:inputstream.adaptive.license_key=cc8d44406ed6bf1898ad9f7a2d64f29e:fb85d059687ab0fc67805806204edbdf
+https://chromecast.cvattv.com.ar/live/c3eds/ESPNHD/SA_Live_dash_enc/ESPNHD.mpd
+#EXTINF:-1 group-title="DEPORTES",Fox Sports Premium
+#KODIPROP:inputstream.adaptive.license_key=4c230dbc7f6a4bfa6ad0aa73ff792374:4186a7c2a15f590a9399886feaec4257
+https://chromecast.cvattv.com.ar/live/c7eds/Fox_Sports_Premiun_HD/SA_Live_dash_enc/Fox_Sports_Premiun_HD.mpd
+#EXTINF:-1 group-title="DEPORTES",TNT Sports HD
+#KODIPROP:inputstream.adaptive.license_key=bc80fa3da696e503f940fde5f681a1c5:ea46e4e9f1132e8dd71fb77f7d55058a
+https://chromecast.cvattv.com.ar/live/c6eds/TNT_Sports_HD/SA_Live_dash_enc/TNT_Sports_HD.mpd
+
+#EXTINF:-1 group-title="HBO",HBO HD
+#KODIPROP:inputstream.adaptive.license_key=5317283f4110fac3fb3a0becd9f648bc:0754a03c926b1247216e01d9dbcfac28
+https://chromecast.cvattv.com.ar/live/c3eds/HBOHD/SA_Live_dash_enc/HBOHD.mpd
+#EXTINF:-1 group-title="HBO",HBO 2
+#KODIPROP:inputstream.adaptive.license_key=c90cc57ad2c436e5a77db2f8d9db2d85:04f6c73984bdcffd013050608497935d
+https://chromecast.cvattv.com.ar/live/c6eds/HBO_2/SA_Live_dash_enc/HBO_2.mpd
+
+#EXTINF:-1 group-title="INFANTILES",Disney Channel HD
+#KODIPROP:inputstream.adaptive.license_key=4a742e478d14023e1993e011d9415f94:0df77ede9bc744376836d21afa137dda
+https://chromecast.cvattv.com.ar/live/c3eds/DisneyChannelHD/SA_Live_dash_enc/DisneyChannelHD.mpd
+#EXTINF:-1 group-title="INFANTILES",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_key=d7df56efaa36a71141d238854cc46d1d:8abb2ee9150d8b2af8ebec0de0f833c8
+https://chromecast.cvattv.com.ar/live/c3eds/CartoonNetwork/SA_Live_dash_enc/CartoonNetwork.mpd
